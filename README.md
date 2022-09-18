@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kkkCassie
+- 👀 I’m interested in ...learning artificial intelligence
+- 🌱 I’m currently learning ...python
+- 💞️ I’m looking to collaborate on ...programming
+- 📫 How to reach me ...mingma@connect.hku.hk
