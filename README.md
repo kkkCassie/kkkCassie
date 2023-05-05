@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkkCassie
-- 👀 I’m interested in ...learning artificial intelligence
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...programming
+- 👀 I’m interested in ...Teaching and Learning Artificial Intelligence.
+- 🌱 I’m currently learning ...Generative AI.
+- 💞️ I’m looking to collaborate on ...educational research and developing AI-powered learning tools.
 - 📫 How to reach me ...mingma@connect.hku.hk
